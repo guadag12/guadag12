@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/guadag12)
 
 - Soy Licenciada en Ciencia Política por la Universidad de Buenos Aires🎓 y realizo análisis sobre la cuyuntura politica y social utilizando R y Python 👩‍💻.
-- 🌱 Actualmente formo parte del [Observatorio de Redes](https://twitter.com/O_de_R) donde investigamos cuál es la mejor manera de aproximarnos a diferentes fenómenos políticos utilizando como marco teórico la Teoria de Redes 🕸.
+- Actualmente formo parte del [Observatorio de Redes](https://twitter.com/O_de_R) donde investigamos cuál es la mejor manera de aproximarnos a diferentes fenómenos políticos utilizando como marco teórico la Teoria de Redes 🕸.
 - Doy clases en la Universidad de Buenos Aires en el [Laboratorio de Politicas Públicas](https://twitter.com/LABPoliticasUBA) y en [EANT](https://twitter.com/eanttech) sobre Ciencia de Datos 👥🔬.
 
 
