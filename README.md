@@ -2,9 +2,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guadalupe-andrea-gonzalez-68b19913a/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/guadag12)
 
-<!--
-**Guadag12/Guadag12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - Soy Licenciada en Ciencia Política por la Universidad de Buenos Aires🎓 y realizo análisis sobre la cuyuntura politica y social utilizando R y Python 👩‍💻.
 - 🌱 Actualmente formo parte del [Observatorio de Redes](https://twitter.com/O_de_R) donde investigamos cuál es la mejor manera de aproximarnos a diferentes fenómenos políticos utilizando como marco teórico la Teoria de Redes 🕸.
 - Doy clases en la Universidad de Buenos Aires en el [Laboratorio de Politicas Públicas](https://twitter.com/LABPoliticasUBA)👥🔬.
@@ -24,4 +21,6 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://blog.efpsa.org/wp-content/uploads/2019/04/pic1.png" alt="shiny"></code>
 
+<!--
+**Guadag12/Guadag12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
