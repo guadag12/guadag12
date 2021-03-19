@@ -1,10 +1,11 @@
-## Hey 👋, Soy [Guada!](https://github.com/Guadag12/)
+## Hey 👋, Soy [Guada](https://github.com/Guadag12/)!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guadalupe-andrea-gonzalez-68b19913a/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/guadag12)
 
 - Soy Licenciada en Ciencia Política por la Universidad de Buenos Aires🎓 y realizo análisis sobre la cuyuntura politica y social utilizando R y Python 👩‍💻.
 - 🌱 Actualmente formo parte del [Observatorio de Redes](https://twitter.com/O_de_R) donde investigamos cuál es la mejor manera de aproximarnos a diferentes fenómenos políticos utilizando como marco teórico la Teoria de Redes 🕸.
-- Doy clases en la Universidad de Buenos Aires en el [Laboratorio de Politicas Públicas](https://twitter.com/LABPoliticasUBA)👥🔬.
+- Doy clases en la Universidad de Buenos Aires en el [Laboratorio de Politicas Públicas](https://twitter.com/LABPoliticasUBA) y en [EANT](https://twitter.com/eanttech) sobre Ciencia de Datos 👥🔬.
+
 
 ### Proyectos en los que he trabajado:
 - [Shiny App sobre Politic@s Argentin@s en Twitter](https://oderedes.shinyapps.io/oder/)👨‍💼 
@@ -12,7 +13,8 @@
 - [Bots en las Aperturas Legislativas](https://github.com/Guadag12/bots_in_congress)📱
 - [Clases en la Universidad de Buenos Aires](https://github.com/labpoliticasuba)🏛️
 - [Taller de Twitter](https://github.com/labpoliticasuba/Taller-de-Twitter)🗣💻
-- 
+
+
 ### Lenguajes y herramientas:
 <code><img height="27" src="https://new.library.arizona.edu/sites/default/files/styles/featured_image/public/featured_media/rprogramming.png?itok=tW_Lc4a8" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
