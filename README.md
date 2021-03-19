@@ -1,4 +1,4 @@
-## Hey 👋, Soy [Guada](https://github.com/Guadag12/)!
+## Hola 👋, soy [Guada](https://github.com/Guadag12/)!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guadalupe-andrea-gonzalez-68b19913a/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/guadag12)
 
