@@ -8,7 +8,7 @@
 
 
 ### Proyectos en los que he trabajado:
-- [Shiny App sobre Politic@s Argentin@s en Twitter](https://oderedes.shinyapps.io/oder/)👨‍💼 
+- [Shiny App sobre Politic@s Argentin@s en Twitter](https://oderedes.shinyapps.io/politicosentwitter/)👨‍💼 
 - [Análisis sobre usuarios dudosos desinformando en época de pandemia](https://github.com/Observatorio-de-Redes/usuariosdudosaprocedencia)💉🤖
 - [Bots en las Aperturas Legislativas](https://github.com/Guadag12/bots_in_congress)📱
 - [Clases en la Universidad de Buenos Aires](https://github.com/labpoliticasuba)🏛️
