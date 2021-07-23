@@ -15,6 +15,9 @@
 - [Análisis sobre usuarios dudosos desinformando en época de pandemia](https://github.com/Observatorio-de-Redes/usuariosdudosaprocedencia)💉🤖
 - [Bots en las Aperturas Legislativas](https://github.com/Guadag12/bots_in_congress)📱
 - [Clases en la Universidad de Buenos Aires](https://github.com/labpoliticasuba)🏛️
+
+### Workshops:
+- [EANT - Data Analytics para Ciencias Sociales](https://eant.tech/escuela-de-ciencias-de-datos/cursos/taller-data-analytics-para-ciencias-sociales)🗣💻
 - [Taller de Twitter](https://github.com/labpoliticasuba/Taller-de-Twitter)🗣💻
 
 
