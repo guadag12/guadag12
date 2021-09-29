@@ -17,7 +17,7 @@
 - [Clases en la Universidad de Buenos Aires](https://github.com/labpoliticasuba)🏛️
 
 ### Workshops:
-- [Rladies - Introducción a Social Network Analysis con politicxsentwitteR](https://github.com/guadag12/socialnetwork-rladies-talk)
+- [Rladies - Introducción a Social Network con politicxsentwitteR 🐦](https://github.com/guadag12/socialnetwork-rladies-talk)
 - [EANT - Data Analytics para Ciencias Sociales](https://eant.tech/escuela-de-ciencias-de-datos/cursos/taller-data-analytics-para-ciencias-sociales)🗣💻
 - [Taller de Twitter](https://github.com/labpoliticasuba/Taller-de-Twitter)🗣💻
 
