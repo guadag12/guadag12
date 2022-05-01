@@ -1,25 +1,25 @@
-## Hola 👋, soy [Guada](https://github.com/Guadag12/)! 
+## Hello 👋, I'm [Guada](https://github.com/Guadag12/)! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guadalupe-andrea-gonzalez-68b19913a/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/guadag12)
 ![](https://visitor-badge.glitch.me/badge?page_id=guadag12.politicxsentwitteR&style=flat-square&color=0088cc)
 
-- Soy Politóloga por la Universidad de Buenos Aires🎓 y realizo análisis sobre la cuyuntura politica utilizando R y Python 👩‍💻.
-- Formo parte del [Observatorio de Redes](https://twitter.com/O_de_R) donde investigamos cuál es la mejor manera de aproximarnos a diferentes fenómenos políticos a partir de la Teoría de Redes 🕸.
-- Doy clases en la Universidad de Buenos Aires en el [Laboratorio de Politicas Públicas](https://twitter.com/LABPoliticasUBA) y en [EANT](https://twitter.com/eanttech) sobre Ciencia de Datos 👥🔬.
+- I'm a political scientist from the University of Buenos Aires🎓 and I make analysis about politics & society using R and Python 👩‍💻.
+- I'm a tech leader in the [Observatorio de Redes](https://twitter.com/O_de_R), here I research about social network theory and social listening 🕸.
+- Also, I teach in the University of Buenos Aires in the Seminar [Laboratorio de Politicas Públicas](https://twitter.com/LABPoliticasUBA) and in [EANT](https://twitter.com/eanttech) about data science 👥🔬.
 
 
-### Proyectos en los que he trabajado:
+### Projects that I've been worked on:
 - [PoliticxsentwitteR R package](https://github.com/guadag12/politicxsentwitteR)🔷📦
-- [Shiny App sobre Politic@s Argentin@s en Twitter](https://oderedes.shinyapps.io/politicosentwitter/)👨‍💼 
-- [Análisis sobre usuarios dudosos desinformando en época de pandemia](https://github.com/Observatorio-de-Redes/usuariosdudosaprocedencia)💉🤖
-- [Bots en las Aperturas Legislativas](https://github.com/Guadag12/bots_in_congress)📱
-- [Clases en la Universidad de Buenos Aires](https://github.com/labpoliticasuba)🏛️
+- [Shiny App about Politicians from Argentina on Twitter](https://oderedes.shinyapps.io/politicosentwitter/)👨‍💼 
+- [Misinformaiton and bots during the pandemic](https://github.com/Observatorio-de-Redes/usuariosdudosaprocedencia)💉🤖
+- [Bots in Congress](https://github.com/Guadag12/bots_in_congress)📱
+- [Classes in the University of Buenos Aires](https://github.com/labpoliticasuba)🏛️
 
 ### Workshops:
-- [Rladies - Introducción a Social Network con politicxsentwitteR 🐦](https://github.com/guadag12/socialnetwork-rladies-talk)
-- [EANT - Data Analytics para Ciencias Sociales](https://eant.tech/escuela-de-ciencias-de-datos/cursos/taller-data-analytics-para-ciencias-sociales)🗣💻
-- [Taller de Twitter](https://github.com/labpoliticasuba/Taller-de-Twitter)🗣💻
+- [Rladies - Introduction to Social Network Analysis with politicxsentwitteR 🐦](https://github.com/guadag12/socialnetwork-rladies-talk)
+- [EANT - Data Analytics for Social Science](https://eant.tech/escuela-de-ciencias-de-datos/cursos/taller-data-analytics-para-ciencias-sociales)🗣💻
+- [Twitter's Workshop](https://github.com/labpoliticasuba/Taller-de-Twitter)🗣💻
 
 
 ### Lenguajes y herramientas:
