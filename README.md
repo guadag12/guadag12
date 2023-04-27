@@ -2,7 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guadalupe-andrea-gonzalez-68b19913a/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/guadag12)
-![](https://visitor-badge.glitch.me/badge?page_id=guadag12.politicxsentwitteR&style=flat-square&color=0088cc)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://guadagonzalez.com/)
+[![](https://visitor-badge.glitch.me/badge?page_id=guadag12.politicxsentwitteR&style=flat-square&color=0088cc)]
+
+
 
 - I'm a political scientist from the University of Buenos Aires🎓 and I make analysis about politics & society using R and Python 👩‍💻.
 - I'm a tech leader in the [Observatorio de Redes](https://twitter.com/O_de_R), here I research about social network theory and social listening 🕸.
