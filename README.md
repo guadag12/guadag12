@@ -30,6 +30,8 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://blog.efpsa.org/wp-content/uploads/2019/04/pic1.png" alt="shiny"></code>
 
+### Check [my website](https://guadagonzalez.com/) 👈
+
 <!--
 **Guadag12/Guadag12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
