@@ -13,8 +13,8 @@
 
 
 ### Projects that I've been worked on:
-- [PoliticxsentwitteR R package](https://github.com/guadag12/politicxsentwitteR)🔷📦
 - [Shiny App about Politicians from Argentina on Twitter](https://oderedes.shinyapps.io/politicosentwitter/)👨‍💼 
+- [PoliticxsentwitteR R package](https://github.com/guadag12/politicxsentwitteR)🔷📦
 - [Misinformaiton and bots during the pandemic](https://github.com/Observatorio-de-Redes/usuariosdudosaprocedencia)💉🤖
 - [Bots in Congress](https://github.com/Guadag12/bots_in_congress)📱
 - [Classes in the University of Buenos Aires](https://github.com/labpoliticasuba)🏛️
