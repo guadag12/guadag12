@@ -7,7 +7,7 @@
 
 
 
-- I'm a Data Scientist and Political Scientist from the University of Buenos Aires🎓 and I make analysis about politics & society using R and Python 👩‍💻.
+- I'm a Computational Social Scientist and I make analysis about politics & society using R and Python 👩‍💻.
 - I'm a tech leader in the [Observatorio de Redes](https://twitter.com/O_de_R), here I research about social network theory and social listening 🕸.
 - Also, I teach in the University of Buenos Aires in the Seminar [Laboratorio de Politicas Públicas](https://twitter.com/LABPoliticasUBA) and in [EANT](https://twitter.com/eanttech) about data science 👥🔬.
 
