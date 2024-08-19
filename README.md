@@ -25,7 +25,7 @@
 - [Twitter's Workshop](https://github.com/labpoliticasuba/Taller-de-Twitter)🗣💻
 
 
-### Lenguajes y herramientas:
+### Languages and tools:
 <code><img height="27" src="https://new.library.arizona.edu/sites/default/files/styles/featured_image/public/featured_media/rprogramming.png?itok=tW_Lc4a8" alt="cpp"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
