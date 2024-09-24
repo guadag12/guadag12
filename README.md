@@ -20,7 +20,7 @@
 - [Classes in the University of Buenos Aires](https://github.com/labpoliticasuba)🏛️
 
 ### Workshops:
-- [UMD - Web Scraping and Data Collection Using RSelenium](https://guadag12.github.io/selenium-r-workshop/#/title-slide)
+- [UMD - Web Scraping and Data Collection Using RSelenium](https://guadag12.github.io/selenium-r-workshop/#/title-slide) 🖱️🎨 
 - [Rladies - Introduction to Social Network Analysis with politicxsentwitteR 🐦](https://github.com/guadag12/socialnetwork-rladies-talk)
 - [EANT - Data Analytics for Social Science](https://eant.tech/escuela-de-ciencias-de-datos/cursos/taller-data-analytics-para-ciencias-sociales)🗣💻
 - [Twitter's Workshop](https://github.com/labpoliticasuba/Taller-de-Twitter)🗣💻
