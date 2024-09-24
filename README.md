@@ -7,9 +7,9 @@
 
 
 
-- I'm a Computational Social Scientist and I make analysis about politics & society using R and Python 👩‍💻.
-- I'm a tech leader in the [Observatorio de Redes](https://twitter.com/O_de_R), here I research about social network theory and social listening 🕸.
-- Also, I teach in the University of Buenos Aires in the Seminar [Laboratorio de Politicas Públicas](https://twitter.com/LABPoliticasUBA) and in [EANT](https://twitter.com/eanttech) about data science 👥🔬.
+- I'm a PhD student in Politics and Government and a member of the [Interdisciplinary Laboratory of Computational Social Science](https://ilcss.umd.edu/) at University of Maryland. Preciously I studied Data Science at [University of Essex](https://www.essex.ac.uk/).
+- I conduct analyses on public opinion, social media, democracy, and social networks using R and Python 👩‍💻.
+- I used to teach Statistics and Computational Methods at the University of Buenos Aires in the seminar [Laboratorio de Politicas Públicas](https://twitter.com/LABPoliticasUBA),  as well as at [FLACSO](https://www.flacso.org.ar/formacion-academica/big-data-e-inteligencia-territorial/cuerpo-docente/), [UNSAM](https://noticias.unsam.edu.ar/2023/08/28/pmet-septiembre-ciencia-de-datos-aplicada-para-la-administracion-publica-y-ciencias-sociales/) and [EANT](https://twitter.com/eanttech) focusing on data science 👥🔬.
 
 
 ### Projects that I've been worked on:
@@ -20,6 +20,7 @@
 - [Classes in the University of Buenos Aires](https://github.com/labpoliticasuba)🏛️
 
 ### Workshops:
+- [UMD - Web Scraping and Data Collection Using RSelenium](https://guadag12.github.io/selenium-r-workshop/#/title-slide)
 - [Rladies - Introduction to Social Network Analysis with politicxsentwitteR 🐦](https://github.com/guadag12/socialnetwork-rladies-talk)
 - [EANT - Data Analytics for Social Science](https://eant.tech/escuela-de-ciencias-de-datos/cursos/taller-data-analytics-para-ciencias-sociales)🗣💻
 - [Twitter's Workshop](https://github.com/labpoliticasuba/Taller-de-Twitter)🗣💻
