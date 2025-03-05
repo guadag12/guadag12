@@ -18,6 +18,7 @@
 - [Misinformaiton and bots during the pandemic](https://github.com/Observatorio-de-Redes/usuariosdudosaprocedencia)💉🤖
 - [Bots in Congress](https://github.com/Guadag12/bots_in_congress)📱
 - [Classes in the University of Buenos Aires](https://github.com/labpoliticasuba)🏛️
+- [Unofficial University of Maryland R Package](https://github.com/guadag12/goterps)🐢❤️
 
 ### Workshops:
 - [UMD - Web Scraping and Data Collection Using RSelenium](https://guadag12.github.io/selenium-r-workshop/#/title-slide) 🖱️🎨 
