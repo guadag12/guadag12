@@ -13,6 +13,7 @@
 
 
 ### Projects that I've been worked on:
+- [Subnational Politics Project](https://spp-app.share.connect.posit.cloud/)👨‍💼 
 - [Shiny App about Politicians from Argentina on Twitter](https://oderedes.shinyapps.io/politicosentwitter/)👨‍💼 
 - [PoliticxsentwitteR R package](https://github.com/guadag12/politicxsentwitteR)🔷📦
 - [Misinformaiton and bots during the pandemic](https://github.com/Observatorio-de-Redes/usuariosdudosaprocedencia)💉🤖
